@@ -11,6 +11,8 @@ covers:
 - cover_type: archival
   image_path: 46109-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46109#GudrunA-Mediaeval-Epic
 gutenberg_issued: '2014-06-27'
 gutenberg_type: Text
 identifiers:
