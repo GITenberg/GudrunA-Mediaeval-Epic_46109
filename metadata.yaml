@@ -1,0 +1,28 @@
+_repo: GudrunA-Mediaeval-Epic_46109
+_version: 0.1.0
+alternative_title: Kudrun. English
+contributor:
+  translator:
+    agent_name: Nichols, Mary Pickering
+    alias: Nichols, Mary P. (Mary Pickering)
+    gutenberg_agent_id: '6851'
+    url: http://www.gutenberg.org/2009/agents/6851
+covers:
+- cover_type: archival
+  image_path: 46109-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2014-06-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46109'
+  lccn: '16001512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epic poetry, German -- Translations into English'
+- !lcsh 'German poetry -- Middle High German, 1050-1500 -- Translations into English'
+- !lcc 'PT'
+title: 'Gudrun: A Mediaeval Epic'
+url: http://www.gutenberg.org/ebooks/46109
